@@ -6,8 +6,7 @@
 
 body {
   font-family: 'Garamond', Light 300;
-  "background-image: https://www.bing.com/images/search?view=detailV2&ccid=f6Ip89Ju&id=3994421842F029D33BDA65361513AE12DBE026F2&thid=OIP.f6Ip89JuAEw2QZCAyoO_egHaGn&mediaurl=https%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa0714565170_10.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.7fa229f3d26e004c36419080ca83bf7a%3Frik%3D8ibg2xKuExU2ZQ%26pid%3DImgRaw%26r%3D0&exph=1073&expw=1200&q=a+shadow+in+time+william+basinski+album+cover&simid=608019498565919896&FORM=IRPRST&ck=3DE895C7A30F0B1918338B0ACBCE9185&selectedIndex=9&itb=0&cw=1432&ch=833&ajaxhist=0&ajaxserp=0;">;
-  display: flex;
+  background-color: #20a84e;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
