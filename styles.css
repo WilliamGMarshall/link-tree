@@ -6,7 +6,9 @@
 
 body {
   font-family: 'Garamond', Light 300;
-  background-color: #20a84e;
+  background-image: url('https://f4.bcbits.com/img/a0714565170_10.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
